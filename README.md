@@ -1,4 +1,4 @@
-# ESG Investing II
+# ESG Investing Simulation
  
 This repository contains Python code to simulate the performance of portfolios using different screening investment strategies. Specifically, it focuses on comparing the performance of traditional investment strategies with those incorporating Environmental, Social, and Governance (ESG) screening.
 
